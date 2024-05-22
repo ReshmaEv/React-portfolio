@@ -1,8 +1,15 @@
 a{
-    color:#EFD469 ;
+    color:#EDF4F2;
     text-decoration: none;
 }
 a:hover{
-    color:#f6f4ed
+    color:#7C8363
 }
 
+.skills{
+    background-Color:rgba(9, 49, 69, 0.9);
+    width:100px;
+    height:50px;
+    
+    color:#EFD469;
+}

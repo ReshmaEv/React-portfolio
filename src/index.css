@@ -4,12 +4,13 @@ body {
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  background-color:#093145;
-  color:#EFD469  ;
+  -moz-osx-font-smoothing: grayscalea;
+  background-color:#31473A ;
+  color:#31473A ;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+/* colors{ #EDF4F2, #7C8363,#31473A} */
